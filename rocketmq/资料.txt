@@ -1,0 +1,3 @@
+课程大纲：https://note.youdao.com/s/MkfmWalw
+图片1：【RocketMQ 元数据】https://www.processon.com/view/link/60bca4d4e401fd34a142b69b
+图片2：【RocketMQ 网络层设计】https://www.processon.com/view/link/60bca4eae0b34d0950a007c5
